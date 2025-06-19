@@ -31,8 +31,6 @@ My goal is to rejoin the defense community as a full-stack developer or systems 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/buxton-mccaslin-b3509826a](https://www.linkedin.com/in/buxton-mccaslin-b3509826a)
-- Email: buxton.mccaslin@gmail.com
-- GitHub: [github.com/BuxtonR](https://github.com/BuxtonR)
 
 ---
 
