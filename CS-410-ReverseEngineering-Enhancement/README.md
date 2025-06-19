@@ -1,16 +1,16 @@
 # CS-410: Reverse Engineering Enhancement Project
 
 ## Overview
-This enhancement was built on the original reverse engineering assignment in CS-410, where I decompiled a binary file and recreated its functionality in C++.
+This enhancement builds on my original CS-410 reverse engineering assignment, where I decompiled a binary file, analyzed the assembly output, and recreated its functionality in C++.
 
 ## Original Functionality
-The initial project required analyzing assembly output and recreating a simple program with conditional logic and loops. The original code was correct but minimal and lacked extensibility.
+The original code successfully replicated a basic algorithm from a binary, involving conditional logic and loops. However, it lacked documentation, flexibility, and safe input handling.
 
 ## Enhancements
-- Added robust input validation and clear prompts for user interaction.
-- Included inline comments mapping the C++ logic back to the original assembly to clarify understanding.
-- Implemented additional logic pathways for extended behavior based on the original algorithm.
-- Enhanced code structure for maintainability and future audits.
+- Refactored the C++ code for better structure and clarity.
+- Added input validation and detailed user prompts.
+- Annotated each section with inline comments mapping logic back to the original assembly.
+- Extended program functionality to support a broader input range and more complex logic branches.
 
 ## Reflection
-This project allowed me to demonstrate binary-to-source conversion skills while practicing clean C++ reconstruction. It built my confidence in working with legacy systems and embedded logic translation.
+This project helped me refine my ability to translate assembly instructions into structured C++ code. It also strengthened my comfort with debugging low-level behavior and applying modern standards to legacy-like codebases.
