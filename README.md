@@ -36,4 +36,7 @@ My goal is to rejoin the defense community as a full-stack developer or systems 
 ## Contact
 
 **LinkedIn:** [linkedin.com/in/buxton-mccaslin-b3509826a](https://www.linkedin.com/in/buxton-mccaslin-b3509826a)  
+
+---
+
 Thank you for reviewing my ePortfolio. Feel free to browse each project folder to see code examples, design documentation, and technical write-ups. If you're a recruiter or hiring manager interested in secure systems, embedded platforms, or defense software, I’d love to connect.
