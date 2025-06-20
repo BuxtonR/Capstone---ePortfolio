@@ -10,6 +10,11 @@ As the introduction to my capstone portfolio, you can view my self-assessment he
 
 [View My Professional Self-Assessment](https://github.com/BuxtonR/Capstone---ePortfolio/blob/main/CS_499_Module_Seven_Professional_Self-Assessment.docx)
 
+You can watch my CS-499 Code Review video here:  
+[CS-499 Code Review – Buxton McCaslin](https://youtu.be/_xah4gr3kkg)
+
+This video provides a walkthrough of the original functionality, my analysis of each artifact, and an explanation of the enhancements I made for Software Design, Algorithms & Data Structures, and Databases.
+
 ---
 
 ## [CS-405: Encryption Application Enhancement](./CS-405-Encryption-Enhancement)
