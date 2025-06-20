@@ -6,6 +6,12 @@ As a U.S. Navy veteran (Cryptologic Technician), I've always been drawn to secur
 
 ---
 
+As the introduction to my capstone portfolio, you can view my self-assessment here:
+
+[View My Professional Self-Assessment](https://github.com/BuxtonR/Capstone---ePortfolio/blob/main/CS_499_Module_Seven_Professional_Self-Assessment.docx)
+
+---
+
 ## [CS-405: Encryption Application Enhancement](./CS-405-Encryption-Enhancement)
 
 **Focus:** Software Design & Engineering  
